@@ -1,0 +1,84 @@
+html{
+    font-family: 'Crimson Text', serif;
+    font-size: 15pt;
+    line-height: 1
+}
+
+body{
+    margin: 10%;
+}
+
+h1{
+    font-size: 50pt;
+    font-weight: 700;
+    color: yellowgreen;
+}
+
+h2{
+    font-size: 15pt;
+}
+
+h3{
+    font-size: 26pt;
+    font-weight: bold;
+}
+
+aside{
+    font-size: 9pt;
+    text-indent: 2rem;
+    color: yellowgreen;
+}
+
+p{
+    text-indent: 2rem;
+}
+
+.reg{
+    font-weight: 400;
+}
+
+.semibold{
+    font-weight: 600;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.condensed{
+    letter-spacing: -0.08em;
+}
+
+.wide{
+    letter-spacing: 0.1em;
+}
+
+.cap{
+    text-transform: capitalize;
+}
+
+.low{
+    text-transform: lowercase;
+}
+
+.up{
+    text-transform: uppercase;
+}
+
+.under{
+    text-decoration: underline;
+}
+
+
+.over{
+    text-decoration: overline;
+}
+
+.through{
+    text-decoration: line-through;
+}
+
