@@ -1,0 +1,123 @@
+body{
+    font-family: 'Archivo Narrow', sans-serif;
+    color: rgb(0, 0, 107);
+}
+
+header{
+    background-color: rgba(255,0,0, 0.5);
+    text-align: center;
+    padding-top: 150px;
+    height: 330px;
+    background-image: url("../images/clouds.PNG");
+    background-size: cover;
+    background-position: 50%;
+}
+
+h1{
+    font-size: 80px;
+    margin: 0;
+}
+
+h2{
+    font-size: 30px;
+    margin: 0;
+}
+
+.column-container{
+    margin: auto;
+    width: 960px;
+    /* background-color: thistle; */
+}
+
+h3{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 12px;
+    margin-bottom: 30px;
+}
+
+.firstsection{
+    padding-top: 30px;
+    padding-bottom: 35px;
+    background-color: thistle;
+}
+
+.secondsection{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    background-color: rgb(253, 207, 121);
+}
+
+.sectionthree{
+    padding-top: 30px;
+    padding-bottom: 80px;
+    background-color: thistle;
+}
+
+p{
+    font-size: 18px;
+}
+
+#cloubois{
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    float: right;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 0px;
+}
+
+.gridimg{
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    float: left;
+    margin-right: 15px;
+}
+
+.picgrid{
+    padding: 0;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    margin: auto;
+}
+
+.picgrid li{
+    display: block;
+    margin-bottom: 1.5rem;
+    margin-right: 30px;
+}
+
+.imgtitle{
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0 0 0 0;
+}
+
+.imgtext{
+    font-weight: bold;
+    margin: 10px 0 0 40px;
+}
+
+.sectionthreetext{
+    font-size: 26px;
+    margin-left: 125px;
+    margin-right: 125px;
+    text-align: center;
+}
+
+h4{
+    font-size: 17px;
+    margin-left: 153px;
+    margin-top: 40px;
+}
+
+.copyright{
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
