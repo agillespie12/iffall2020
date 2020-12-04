@@ -16,7 +16,19 @@ body{
 
 .container {
     margin-top: 130px;
-  }
+    
+}
+
+.schools{
+    color: white;
+    position: absolute;
+    /* top: 8px;
+    left: 1px; */
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 0px;
+}
 
 .options li{
     float: left;
